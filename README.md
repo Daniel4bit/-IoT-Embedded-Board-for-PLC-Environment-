@@ -1,4 +1,4 @@
-# -IoT-Embedded-Board-for-PLC-Environment-
+# IoT-Embedded-Board-for-PLC-Environment-
 
 ## Product Description in Detail 
 IoT embedded boards designed specifically for PLC environments. Engineered to seamlessly integrate into industrial setups, this compact yet powerful board offers a comprehensive array of features tailored to meet your automation needs. This board empowers you with the reliability, flexibility, and connectivity needed to drive your PLC environment into the future. Experience the next level of industrial automation with our cutting-edge IoT embedded board.
