@@ -9,9 +9,9 @@ IoT embedded boards designed specifically for PLC environments. Engineered to se
 ## Key Features:
 ### Isolation and Interface Capabilities:
 #### Input Section: 
-Four isolated input pins that support 24V DC inputs, ensuring versatile connectivity and response. The maximum input voltage specifications allow for broad application uses, enhanced by the convenience of LED indicators for instant status and source/sinking type recognition.
+Four isolated input pins that support 24V DC inputs, ensuring versatile connectivity and response. The maximum input voltage specifications allow for broad application uses, enhanced by the convenience of LED indicators for instant status and source/sinking (NPN/PNP) type recognition.
 #### Output Section: 
-Four isolated output pins featuring single-channel output with a 1.0 A driving capability, designed to accommodate a wide supply voltage range from 15V to 30V. This setup supports both sourcing and sinking load types, enabling flexible control over connected devices.
+Four isolated output pins featuring single-channel output with a 1.0 A driving capability, designed to accommodate a wide supply voltage range from 15V to 30V. This setup supports both sourcing and sinking (NPN/PNP) load types, enabling flexible control over connected devices.
 
 ## Power Management:
 **Battery Operated:** Powered by a 3.7V 1000mAh battery, making the device highly portable and efficient in field applications. The board includes a sophisticated battery charging system, ensuring long operational hours and sustainable performance.
@@ -38,7 +38,7 @@ Designed for use in automated control systems within industrial settings, this I
 
 * 4 Isolated Input Pins (24 V)
 * 4 Isolated Output Pins (24 V)
-* Supports both sourcing & sinking type
+* Supports both sourcing & sinking type(NPN/PNP)
 * Multilayer compact board
 * Max. 24V Power Supply (I/O Side)
 * 3.7V 1000mAh Battery Operated
